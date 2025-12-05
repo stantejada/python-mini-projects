@@ -1,0 +1,21 @@
+Coffee Machine
+
+Features:
+1. Print Report
+2. Check resources sufficient
+3. Proccess Coin
+4. Check Transaction successfull
+5. Make Coffee
+6. Turn off Coffee Machine
+
+
+
+Description:
+1- When user use command "print" the machine print resources availability
+2. When user choose a drink (espresso, latte, cappuccino) the app check if there are resources available for do the drink
+3. Proccess coin for pay and change (0.01, 0.05, 0.10, 0.25)
+4. Prepere coffee if payed was successfully or notify that there're not enough resource to do the drink
+5. Turn off machine when user use command "off"
+
+
+challenge: Use json file as database
